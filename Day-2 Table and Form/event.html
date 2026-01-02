@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Samar 2026</title>
+</head>
+
+<body>
+
+    <h1>WELCOME TO SAMAR FEST 2026</h1>
+    <p><i>An annual celebration of sports, skills, and culture</i></p>
+    <hr>
+    <h3>Daily Program Overview</h3>
+
+    <table border="1" cellpadding="12">
+        <thead>
+            <tr>
+                <th>Start Time</th>
+                <th>Event Name</th>
+                <th>Place</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>09:00 AM</td>
+                <td>Shaurya Workshop</td>
+                <td>HIRA Auditorium</td>
+            </tr>
+            <tr>
+                <td>11:30 AM</td>
+                <td>Basketball Practice & Try-outs</td>
+                <td>Outdoor Court</td>
+            </tr>
+            <tr>
+                <td>06:00 PM</td>
+                <td>Grand Samar Fest Night</td>
+                <td>Main Ground</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>Registration Details</h3>
+
+    <form action="register.html" method="post">
+
+        <label for="username"><b>Your Name:</b></label><br>
+        <input type="text" id="username" name="username"><br><br>
+
+        <label for="useremail"><b>Contact Email:</label><br>
+        <input type="email" id="useremail" name="useremail"><br><br>
+
+        <label for="userage"><b>Age:</b></label><br>
+        <input type="number" id="userage" name="userage"><br><br>
+
+        <label for="visitdate"><b>Date of Attendance:</b></label><br>
+        <input type="date" id="visitdate" name="visitdate"><br>
+
+        <p><b>Choose Entry Pass:</b></p>
+        <input type="radio" id="basic" name="entry" value="basic">
+        <label for="basic">Basic</label><br>
+
+        <input type="radio" id="premium" name="entry" value="premium">
+        <label for="premium">Premium</label><br>
+
+        <input type="radio" id="learner" name="entry" value="learner">
+        <label for="learner">Learner</label><br>
+
+        <p><b>Activities You Wish to Join:</b></p>
+        <input type="checkbox" id="bd" name="activity" value="badminton">
+        <label for="bd">Smash & Serve (Badminton)</label><br>
+
+        <input type="checkbox" id="cricket" name="activity" value="cricket">
+        <label for="cricket">Box Cricket</label><br>
+
+        <input type="checkbox" id="football" name="activity" value="football">
+        <label for="football">Football Drills</label><br><br>
+
+        <label for="message"><b>Message for Organizers:</b></label><br>
+        <textarea id="message" name="message" rows="3" cols="50"></textarea><br><br>
+
+        <button type="submit">Confirm Entry</button>
+
+    </form>
+</body>
+</html>
