@@ -13,5 +13,5 @@
 
 <h1>DAY 3</h1>
 <img width="1680" height="1050" alt="Image" src="https://github.com/user-attachments/assets/9e3ae44d-99c3-468d-8128-afcd43061270" />
-<img width="1680" height="1050" alt="Image" src="https://github.com/user-attachments/assets/67be85c7-d824-4f2c-bc93-6701a606ffe8" />
+<img width="1680" height="1050" alt="Image" src="https://github.com/user-attachments/assets/667c6188-8381-4375-aa64-01f952226f72" />
 <img width="1680" height="1050" alt="Image" src="https://github.com/user-attachments/assets/e377e13d-1162-4aec-b8a0-aa8e627be1e7" />
