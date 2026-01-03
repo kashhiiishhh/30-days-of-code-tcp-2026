@@ -12,6 +12,6 @@
 <img width="1680" height="1050" alt="Image" src="https://github.com/user-attachments/assets/039a79e4-5a1f-4d8b-8a84-cf45ab58b262" />
 
 <h1>DAY 3</h1>
-<img width="1680" height="1050" alt="Image" src="https://github.com/user-attachments/assets/dcd01525-6d00-4283-901d-426d37364423" />
-<img width="1680" height="1050" alt="Image" src="https://github.com/user-attachments/assets/913a41fb-1923-453c-aa8a-dd2671bdc0c5" />
-<img width="1680" height="1050" alt="Image" src="https://github.com/user-attachments/assets/a597aafd-5c2b-406f-8824-9acd58efcf2b" />
+<img width="1680" height="1050" alt="Image" src="https://github.com/user-attachments/assets/9e3ae44d-99c3-468d-8128-afcd43061270" />
+<img width="1680" height="1050" alt="Image" src="https://github.com/user-attachments/assets/a0b37a41-ed1c-4c3a-bb99-3f487ae0b55f" />
+<img width="1680" height="1050" alt="Image" src="https://github.com/user-attachments/assets/e377e13d-1162-4aec-b8a0-aa8e627be1e7" />
