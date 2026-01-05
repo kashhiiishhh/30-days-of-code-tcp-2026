@@ -1,0 +1,121 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Nunito', sans-serif;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  background: linear-gradient(135deg, #1d1e33, #2a2b55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.game-container {
+  position: relative;
+  background: #111225;
+  padding: 30px 40px;
+  border-radius: 20px;
+  box-shadow: 0 0 30px rgba(108, 99, 255, 0.4);
+  text-align: center;
+  overflow: hidden;
+}
+
+h1 {
+  font-weight: 900;
+  margin-bottom: 10px;
+}
+
+.status {
+  margin: 15px 0;
+  font-weight: 700;
+  min-height: 24px;
+}
+
+.board {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  gap: 12px;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.cell {
+  width: 100px;
+  height: 100px;
+  background: #1f2040;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 900;
+  cursor: pointer;
+  transition: transform 0.2s ease, background 0.3s ease;
+}
+
+.cell:hover {
+  transform: scale(1.05);
+  background: #2b2d66;
+}
+
+.cell.x {
+  color: #ff6b6b;
+  animation: pop 0.3s ease;
+}
+
+.cell.o {
+  color: #4ecdc4;
+  animation: pop 0.3s ease;
+}
+
+@keyframes pop {
+  0% { transform: scale(0.6); }
+  100% { transform: scale(1); }
+}
+
+.win {
+  animation: glow 1s infinite alternate;
+}
+
+@keyframes glow {
+  from { box-shadow: 0 0 10px #6c63ff; }
+  to { box-shadow: 0 0 25px #6c63ff; }
+}
+
+.draw {
+  animation: shake 0.4s ease-in-out;
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-5px); }
+  75% { transform: translateX(5px); }
+}
+
+button {
+  padding: 10px 22px;
+  border-radius: 30px;
+  border: none;
+  background: #6c63ff;
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #5548e2;
+}
+
+/* 🔥 BUG FIX HERE */
+.bg-svg {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  bottom: -120px;
+  right: -120px;
+  opacity: 0.15;
+  pointer-events: none; /* THIS FIXES LOWER-RIGHT CELL */
+}
