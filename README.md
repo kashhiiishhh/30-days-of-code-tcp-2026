@@ -25,3 +25,9 @@
 
 <h1>DAY 6</h1>
 <img width="1680" height="1050" alt="Image" src="https://github.com/user-attachments/assets/8575113f-3980-434a-8192-f61064288e23" />
+
+<h1>DAY 7</h1>
+<img width="490" height="479" alt="Image" src="https://github.com/user-attachments/assets/e462d435-1338-4965-afd2-de5b989a9cba" />
+
+<h1>DAY 8</h1>
+<img width="1677" height="958" alt="Image" src="https://github.com/user-attachments/assets/274566e4-55a1-4bf7-801e-afe9ebcf10c1" />
