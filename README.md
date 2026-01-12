@@ -40,3 +40,6 @@
 
 <h1>DAY 11</h1>
 <img width="1651" height="871" alt="Image" src="https://github.com/user-attachments/assets/2ec06bf5-bcf1-4c8b-af97-4d69ca5ab07f" />
+
+<h1>DAY 12</h1>
+<img width="1670" height="950" alt="Image" src="https://github.com/user-attachments/assets/b1770c9f-ccca-4473-8e90-4577f3bb8359" />
