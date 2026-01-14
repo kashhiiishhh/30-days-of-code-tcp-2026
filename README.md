@@ -46,3 +46,6 @@
 
 <h1>DAY 13</h1>
 <img width="1657" height="938" alt="Image" src="https://github.com/user-attachments/assets/bf673f93-1a1a-4385-98d7-d55dfc70252d" />
+
+<h1>DAY 14</h1>
+<img width="1675" height="691" alt="Image" src="https://github.com/user-attachments/assets/80cd7f90-7981-4c6c-9889-a759ab091944" />
