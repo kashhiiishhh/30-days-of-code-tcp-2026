@@ -52,3 +52,6 @@
 
 <h1>DAY 15</h1>
 <img width="1663" height="922" alt="Image" src="https://github.com/user-attachments/assets/d2437be4-83a4-4457-b255-9969a3c92ebe" />
+
+<h1>DAY 16</h1>
+<img width="1646" height="913" alt="Image" src="https://github.com/user-attachments/assets/ceac055e-d007-48d0-95bf-45ae03f26d99" />
