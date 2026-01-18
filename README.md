@@ -61,3 +61,6 @@
 
 <h1>DAY 18</h1>
 <img width="1661" height="869" alt="Image" src="https://github.com/user-attachments/assets/1d18837f-507f-42d7-8205-1141497dfd9f" />
+
+
+<img width="1661" height="890" alt="Image" src="https://github.com/user-attachments/assets/88172d9e-d9fa-4511-9084-9a23e3df99d0" />
