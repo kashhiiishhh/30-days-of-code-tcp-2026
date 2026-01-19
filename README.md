@@ -64,3 +64,6 @@
 
 <h1>DAY 19</h1>
 <img width="1661" height="890" alt="Image" src="https://github.com/user-attachments/assets/88172d9e-d9fa-4511-9084-9a23e3df99d0" />
+
+<h1>DAY 20</h1>
+<img width="1661" height="897" alt="Image" src="https://github.com/user-attachments/assets/3970d845-092d-4e7e-b93e-bf1f31b8434d" />
