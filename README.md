@@ -85,3 +85,6 @@
 
 <h1>DAY 26</h1>
 <img width="1643" height="902" alt="Image" src="https://github.com/user-attachments/assets/98c75b7e-0972-4cb3-8a5f-610bac57f94a" />
+
+<h1>DAY 27</h1>
+<img width="921" height="401" alt="Image" src="https://github.com/user-attachments/assets/15fcf43a-8fb4-4c7c-8711-8cf54481c185" />
